@@ -21,3 +21,4 @@ It automatically opens your browser to http://localhost:4200
 
 ## Usage
 
+<img width="1674" alt="Screenshot 2022-12-14 at 12 51 44 AM" src="https://user-images.githubusercontent.com/104647844/207517217-f714a898-9260-4688-8b42-6f238e7cf5fb.png">
